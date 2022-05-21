@@ -52,8 +52,8 @@ Check out the deployed app here: [Note Taker](https://calm-taiga-46703.herokuapp
 
 ### Screenshots
 
-![screenshot](https://github.com/EPW80/Note-Taker/blob/main/images/shot.png)
-![screenshot](https://github.com/EPW80/Note-Taker/blob/main/images/shot2.png)
+![Note-Taker: Erik Williams](/images/shot.png)
+![Note-Taker: Erik Williams](/images/shot2.png)
 
 ### Contact
 
