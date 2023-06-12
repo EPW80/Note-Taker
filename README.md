@@ -8,7 +8,6 @@ The app uses an Express.js back end and will save and retrieve user generated no
 - Bootstrap
 - JavaScript
 - Node.js
-- Express.js
 
 ## Install
 
@@ -19,11 +18,10 @@ Run the following line of code in your terminal to install all the needed packag
 npm i
 ```
 
-### Website Link
+## Deployment
 
 deployed app here: [Note Taker](https://calm-taiga-46703.herokuapp.com/)
 
-### Screenshots
+## Demo
 
-![Note-Taker: Erik Williams](/images/shot.png)
-![Note-Taker: Erik Williams](/images/shot2.png)
+![](./images/demo.gif)
