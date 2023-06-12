@@ -25,3 +25,7 @@ deployed app here: [Note Taker](https://calm-taiga-46703.herokuapp.com/)
 ## Demo
 
 ![](./images/demo.gif)
+
+## Contributor
+
+Erik Williams
